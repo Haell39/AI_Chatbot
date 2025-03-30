@@ -1,0 +1,2 @@
+Para replicar exatamente seu ambiente em outra máquina use:
+conda env create -f environment.yml
