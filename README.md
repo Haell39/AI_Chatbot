@@ -4,7 +4,7 @@
 [![Gradio](https://img.shields.io/badge/Gradio-Interface-orange?logo=gradio)](https://gradio.app)
 [![NLTK](https://img.shields.io/badge/NLP-NLTK-green?logo=nltk)](https://nltk.org)
 
-![Chatbot Demo](files\chatbot.gif) <!-- Substitua por seu GIF/Imagem -->
+![Chatbot Demo](files\chatbot.gif) 
 
 ## 📌 Overview
 Chatbot inteligente para atendimento ao cliente que combina:
@@ -66,7 +66,7 @@ python src/app.py
    - *"Do you offer discounts?"*
    - *"Hello!"*
 
-![Exemplo de Conversação](files\image.png) <!-- Adicione screenshot -->
+![Exemplo de Conversação](files\image.png) 
 
 <br>
 
