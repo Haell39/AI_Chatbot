@@ -1,2 +1,5 @@
 Para replicar exatamente seu ambiente em outra máquina use:
 conda env create -f environment.yml
+
+O deploy do chatbot está em: 
+https://rafaaaell2-support-chatbot.hf.space/?__theme=system&deep_link=KExtE-j6UlA

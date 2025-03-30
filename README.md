@@ -14,19 +14,16 @@ Chatbot inteligente para atendimento ao cliente que combina:
 
 > ✨ **Destaque técnico**: Sistema híbrido que trata tanto FAQs estruturadas quanto conversação casual com threshold de confiança ajustável.
 
-<br>
 
-## 🛠️ Tecnologias
-| Tecnologia | Função | 
-|------------|--------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Linguagem principal |
-| ![Gradio](https://img.shields.io/badge/-Gradio-FF4B4B?logo=gradio&logoColor=white) | Interface web |
-| ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | TF-IDF & Cosine Similarity |
-| ![NLTK](https://img.shields.io/badge/-NLTK-40A351?logo=nltk&logoColor=white) | Tokenização/Pontuação |
+## 🌐 Live Demo  
 
-<br>
+O chatbot está disponível para teste público no Hugging Face Spaces:  
 
-## 🎯 Features
+[![Open in Spaces](https://img.shields.io/badge/🤗_Hugging_Face-Open_in_Spaces-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/rafaaaell2/support-chatbot)  
+**Link direto**:  
+[https://rafaaaell2-support-chatbot.hf.space](https://rafaaaell2-support-chatbot.hf.space)  
+
+💡 *Funcionalidades testáveis:*  
 1. **Resposta a FAQs**  
    - Rastreamento de pedidos  
    - Formas de pagamento  
@@ -38,6 +35,16 @@ Chatbot inteligente para atendimento ao cliente que combina:
 
 3. **Fallback Seguro**  
    - Resposta padrão para perguntas desconhecidas  
+
+<br>
+
+## 🛠️ Tecnologias
+| Tecnologia | Função | 
+|------------|--------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Linguagem principal |
+| ![Gradio](https://img.shields.io/badge/-Gradio-FF4B4B?logo=gradio&logoColor=white) | Interface web |
+| ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | TF-IDF & Cosine Similarity |
+| ![NLTK](https://img.shields.io/badge/-NLTK-40A351?logo=nltk&logoColor=white) | Tokenização/Pontuação |
 
 <br>
 
