@@ -4,7 +4,7 @@
 [![Gradio](https://img.shields.io/badge/Gradio-Interface-orange?logo=gradio)](https://gradio.app)
 [![NLTK](https://img.shields.io/badge/NLP-NLTK-green?logo=nltk)](https://nltk.org)
 
-![Chatbot Demo](files\chatbot.gif) 
+![Chatbot Demo](https://github.com/Haell39/AI_Chatbot/blob/main/assets/chatbot.gif?raw=true)
 
 ## 📌 Overview
 Chatbot inteligente para atendimento ao cliente que combina:
@@ -73,7 +73,7 @@ python src/app.py
    - *"Do you offer discounts?"*
    - *"Hello!"*
 
-![Exemplo de Conversação](files\image.png) 
+![Exemplo de Conversação](https://github.com/Haell39/AI_Chatbot/blob/main/assets/image.png?raw=true)
 
 <br>
 
